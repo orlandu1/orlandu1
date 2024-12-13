@@ -22,6 +22,20 @@
   ![Mysql](https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)
   ![Node](https://img.shields.io/badge/Node.js-4e9b43?style=for-the-badge&logo=node.js&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/Vue.js-3fb984?style=for-the-badge&logo=vue.js&logoColor=white)
+  ![Bash Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+<br>
+Redes sociais
+<div> 
+  
+  <a href="https://instagram.com/orlandu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.linkedin.com/in/orlando-alves-2159b31b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 
 ## Projects
+
+...
