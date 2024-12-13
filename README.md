@@ -1,8 +1,8 @@
 ##Olá me chamo Orlando!
 
 - 🔭 Estou em busca de estágio Full-Stack ...
-- 🌱 Atualmente estou apprendendo Java ...
-- 😄 Pronouns: Ele/Dele
+- 🌱 Atualmente estou aprendendo Java ...
+- 😄 Pronomes: Ele/Dele
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orlandu1&show_icons=true&theme=dark)
 
