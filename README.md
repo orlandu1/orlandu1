@@ -1,8 +1,15 @@
 ## Olá me chamo Orlando!
 
-- 🔭 Estou em busca de estágio Back-End ...
-- 🌱 Atualmente estou aprendendo Java ...
-- 😄 Pronomes: Ele/Dele
+🇧🇷 PT-BR
+
+    👋 Seja bem-vindo ao meu repositório. Sinta-se livre para explorar.
+    🧑‍🎓 Estou cursando Análise e Desenvolvimento De Sistemas.
+    🧑‍💻 Sou um desenvolvedor de software.
+    👔 Atualmente trabalho com Suporte de T.i
+    💬 Se precisar da minha ajuda, basta entrar em contato!
+
+  [![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvesorlando9@gmail.com)
+
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orlandu1&show_icons=true&theme=dark)
 
