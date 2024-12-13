@@ -18,11 +18,11 @@
 
   ![PHP](https://img.shields.io/badge/PHP-7a86b8?style=for-the-badge&logo=php&logoColor=white)
   ![Javascript](https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=white)
+  ![Node](https://img.shields.io/badge/Node.js-4e9b43?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Bash Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-3fb984?style=for-the-badge&logo=vue.js&logoColor=white)
   ![Postgresql](https://img.shields.io/badge/PostgreSQL-699eca?style=for-the-badge&logo=PostgreSQL&logoColor=white)
   ![Mysql](https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Node](https://img.shields.io/badge/Node.js-4e9b43?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-3fb984?style=for-the-badge&logo=vue.js&logoColor=white)
-  ![Bash Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
