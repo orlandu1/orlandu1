@@ -33,6 +33,8 @@
   </p>
 <p>
 
+__[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orlandu1)](https://github.com/anuraghazra/github-readme-stats)
+    
 <hr>
 
 ## Contato
