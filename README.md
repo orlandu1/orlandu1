@@ -33,8 +33,7 @@
   </p>
 <p>
 
-<br>
-
+<hr>
 
 ## Contato
 
