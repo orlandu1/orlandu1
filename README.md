@@ -16,6 +16,7 @@
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=orlandu1&show_icons=true&hide_border=false&line_height=20&title_color=#B22222icon_color=#B22222&show_owner=true"/>
     <p> 
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
       <img src="https://img.shields.io/badge/Node.js-4e9b43?style=for-the-badge&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white"/>
